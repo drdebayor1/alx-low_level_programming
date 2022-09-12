@@ -7,6 +7,7 @@
  * Return 0
  */
 int 'main'(void)
+	^~~~~~
 {
 	char a;
 
@@ -23,4 +24,5 @@ putchar('\n')
 	;
 return (0)
 }
+^
 ^
