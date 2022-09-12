@@ -6,7 +6,6 @@
  * this program prints "Programming is zero, positive or negative"
  * Return 0
  */
-
 int main(void)
 {
 	char a;
@@ -18,6 +17,6 @@ int main(void)
 	  putchar(a);
 	}
   }
-	  putchar('\n');
-	  return (0);
+putchar('\n');
+return (0);
 }
