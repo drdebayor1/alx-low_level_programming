@@ -6,8 +6,7 @@
  * this program prints "Proramming is positive, zero, negative"
  * Return 0
  */
-int 'main'(void)
-	^~~~~~
+int main(void)
 {
 	char a;
 
