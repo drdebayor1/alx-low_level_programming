@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	puts("\abcdfghijklmnoprstuvwxyz");
+	puts("abcdfghijklmnoprstuvwxyz");
 return (0);
 }
 
