@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check te code
+ * main - check the code
  *
- * Description: Resetvalue of n
+ * Description: Reset value of *n
  *
  * Return: Always 0
  */
