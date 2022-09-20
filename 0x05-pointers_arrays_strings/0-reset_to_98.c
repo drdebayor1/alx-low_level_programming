@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * void - check the code
- * @parameter*n: this is a pointer
+ * reset_to_98 - reset the value of variable to another
+ * @parametern: this is a pointer
  *
  * Description: using the void function
  * this program prints "reset to 98"
