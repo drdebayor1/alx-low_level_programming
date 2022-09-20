@@ -2,10 +2,8 @@
 #include <stdio.h>
 
 /**
- * reset_to_98 - reset the value of variable to another
- *
- * Description: using the void function
- * this program prints "reset to 98"
+ * reset_to_98 - reset the value of an integer to 98
+ *@n: A pointer to an integer that will be updated
  *
  * Return: Always 0
  */
