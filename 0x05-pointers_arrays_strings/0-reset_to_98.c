@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * void - check the code
+ * @parameter*n: this is a pointer
  *
- * Description: using the main function
+ * Description: using the void function
  * this program prints "reset to 98"
  *
  * Return: Always 0
