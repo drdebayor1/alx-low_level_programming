@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- * Description: using the main function 
+ * Description: using the main function
  * this program reset to 98
  *
  * Return: Always 0
