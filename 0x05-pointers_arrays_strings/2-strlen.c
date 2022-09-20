@@ -6,13 +6,13 @@
  *
  * Description: using the main function
  *
- * this program prints "swap integers
- * 
+ * this program prints "swap integers"
  * Return: Always 0
  */
 int _strlen(char *s)
 {
 	int count;
+	
 	for (count = 0; *s != '\0'; ++s)
 		count++;
 
