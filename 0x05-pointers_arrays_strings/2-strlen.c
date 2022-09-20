@@ -2,19 +2,21 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ *_strlen -length of a string
+ *@s: A pointer to an int that will be changed/updated
  *
- * Description: using the main function
- *
- * this program prints "count strings"
- * Return: Always 0
+ *Return: Always 0
  */
+
 int _strlen(char *s)
 {
-	int count;
+	int a;
 
-	for (count = 0; *s != '\0'; ++s)
-		count++;
+	a = 0;
 
-	return (count);
+	while (s[a] != '\0')
+	{
+		a++;
+	}
+return (a);
 }
