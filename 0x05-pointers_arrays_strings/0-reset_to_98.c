@@ -3,7 +3,7 @@
 /**
  * main - check the code
  *
- * Description: Reset value of *n
+ * Description: reset_to_98
  *
  * Return: Always 0
  */
